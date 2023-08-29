@@ -28,7 +28,7 @@ function page({}: Props) {
           x: 0,
         }}
         // viewport={{ once: true }}
-        src="https://scontent.fmnl33-4.fna.fbcdn.net/v/t1.15752-9/232876407_197640412260756_6424801961887147090_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGzvYysl9O0WA-VWWTosaJgUR20BoBDaIRRHbQGgENohK_z0As62R5X8f_c1tKV0lo&_nc_ohc=ggHSyY1oOM8AX-zWJ02&_nc_ht=scontent.fmnl33-4.fna&oh=03_AdSt9244O-ilktjba3lD5VqaPO4tOVt_reJE-jdGXkumRQ&oe=64801063"
+        src="https://scontent.fcrk3-1.fna.fbcdn.net/v/t39.30808-6/289559528_10225635082961460_8655864038669176727_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ivEh_49FNoUAX_N-RlY&_nc_ht=scontent.fcrk3-1.fna&oh=00_AfBtJbntaRQ5tNxhE1qel30rsUEjtd5IY3LpYuiGnlDjHQ&oe=64F3721F"
         className="bg-color-transparent -mb-20 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-96 xl:w-[500px] xl:h-[600px] shadow-2xl"
       />
 

@@ -4,8 +4,7 @@ import React from "react";
 import BackGroundCircle from "./BackGroundCircle";
 import Typewriter from "typewriter-effect";
 
-import alex from "../assets/alex.jpg"
-
+import alex from "../assets/alex.jpg";
 
 type Props = {};
 
@@ -14,10 +13,9 @@ function page({}: Props) {
     <div className="flex flex-col items-center justify-center h-screen space-y-8 overflow-hidden text-center ">
       <BackGroundCircle />
 
-     
       <img
         className="relative object-cover w-64 h-64 mx-auto rounded-full lg:bottom-[165px] bottom-[100px] shadow-2xl "
-        src="https://scontent.fmnl3-1.fna.fbcdn.net/v/t1.6435-9/136754899_10222525777390764_5917462024342076663_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5b7eaf&_nc_ohc=07kSd04fXg4AX_KyaeU&_nc_ht=scontent.fmnl3-1.fna&oh=00_AfAtNsoLSFbvWx19I8TSyFQ9_zPTYKTlWbBziYT54bxo-w&oe=6471BA8D"
+        src="https://scontent.fcrk3-2.fna.fbcdn.net/v/t1.6435-9/136754899_10222525777390764_5917462024342076663_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5b7eaf&_nc_ohc=4dm8hgPk-wEAX9u697y&_nc_ht=scontent.fcrk3-2.fna&oh=00_AfA0pAb2d7rTKSk2IuWfaEkn8cgz0Erm78UCJ53dNe4SPg&oe=6514FC4D"
         alt=""
       />
       <div className="z-20">
