@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 "use client";
 import Link from "next/link";
 import React from "react";
@@ -15,8 +16,8 @@ function page({}: Props) {
 
       <img
         className="relative object-cover w-64 h-64 mx-auto rounded-full lg:bottom-[165px] bottom-[100px] shadow-2xl "
-        src="https://scontent.fcrk3-2.fna.fbcdn.net/v/t1.6435-9/136754899_10222525777390764_5917462024342076663_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5b7eaf&_nc_ohc=4dm8hgPk-wEAX9u697y&_nc_ht=scontent.fcrk3-2.fna&oh=00_AfA0pAb2d7rTKSk2IuWfaEkn8cgz0Erm78UCJ53dNe4SPg&oe=6514FC4D"
-        alt=""
+        src="https://scontent.fmnl3-1.fna.fbcdn.net/v/t1.6435-9/136754899_10222525777390764_5917462024342076663_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5b7eaf&_nc_ohc=NdKgYymuvx4AX97vu13&_nc_ht=scontent.fmnl3-1.fna&oh=00_AfBz-FBy6tmPROOPY50b7rweUFrZiWdR3JOZhRa4JNWVvw&oe=65334ECD"
+        alt="Alex"
       />
       <div className="z-20">
         <h2 className="py-2 lg:text-3xl text-xl tracking-[25px] text-gray-500 uppercase">

@@ -28,7 +28,7 @@ function page({}: Props) {
           x: 0,
         }}
         // viewport={{ once: true }}
-        src="https://scontent.fcrk3-1.fna.fbcdn.net/v/t39.30808-6/289559528_10225635082961460_8655864038669176727_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ivEh_49FNoUAX_N-RlY&_nc_ht=scontent.fcrk3-1.fna&oh=00_AfBtJbntaRQ5tNxhE1qel30rsUEjtd5IY3LpYuiGnlDjHQ&oe=64F3721F"
+        src="https://scontent.fmnl3-4.fna.fbcdn.net/v/t39.30808-6/289559528_10225635082961460_8655864038669176727_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=O_PJRznGMnQAX_8t5MF&_nc_ht=scontent.fmnl3-4.fna&oh=00_AfBFkCSvEFK7qtIbHm9LPgFZ8dQB9a3xzkfVOgCznHR0HA&oe=65111BDF"
         className="bg-color-transparent -mb-20 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-96 xl:w-[500px] xl:h-[600px] shadow-2xl"
       />
 
@@ -40,12 +40,12 @@ function page({}: Props) {
         </h4>
         <p className="text-xs lg:text-base">
           Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry's standard dummy text ever
-          since the 1500s, when an unknown printer took a galley of type and
+          industry. Lorem Ipsum has been the industry standard dummy text ever
+          since the 1500s when an unknown printer took a galley of type and
           scrambled it to make a type specimen book. It has survived not only
           five centuries, but also the leap into electronic typesetting,
           remaining essentially unchanged. It was popularised in the 1960s with
-          the release of Letraset sheets containing Lorem Ipsum passages
+          the release of Letraset sheets containing Lorem Ipsum passage
         </p>
       </div>
     </motion.div>
